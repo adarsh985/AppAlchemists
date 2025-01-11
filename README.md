@@ -1,8 +1,11 @@
 # AppAlchemists
 
+pdf : - https://1drv.ms/p/c/3b54df17b720bd4c/EXYBH_CrnERBn_ogO_fwbQUBLYyAJ6V-nni4sh3Q1g-3wQ?e=b335zr
+yt video link :- https://youtu.be/b8147K1qyd0
+
 
 About problem statement :-
- **GOALDIGGER Summary**
+ GOALDIGGER 
 
 **Objective:** 
 Enhance productivity, improve focus, and ensure a higher completion rate of tasks through gamified task tracking.
