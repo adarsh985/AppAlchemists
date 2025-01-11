@@ -1,15 +1,5 @@
 # AppAlchemists
-Gamification in Learning
- 2
- ISTD Online Hackathon 2025
-Objective: Make training fun and engaging through game-based frameworks.
- The gamification track focuses on transforming traditional training methods into 
-engaging, game-like experiences. Participants are encouraged to think about how they 
-can integrate elements like rewards, challenges, and competition into learning 
-environments to drive motivation and improve knowledge retention.
- This track encourages exploration of creative frameworks that make learning fun and 
-interactive, ensuring employees remain engaged while achieving their development 
-goals
+
 
 About problem statement :-
  **GOALDIGGER Summary**
